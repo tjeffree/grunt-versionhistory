@@ -1,6 +1,6 @@
 {
   "name": "grunt-versionhistory",
-  "description": "Bump version history collector",
+  "description": "Store old version numbers in your package.json",
   "version": "0.0.1",
   "homepage": "https://github.com/tjeffree/grunt-versionhistory",
   "author": {

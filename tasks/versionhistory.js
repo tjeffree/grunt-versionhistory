@@ -8,7 +8,7 @@
 
 module.exports = function(grunt) {
 
-  var DESC = 'Add version number to package.json.versionHistory';
+  var DESC = 'Store old version numbers in your package.json';
   grunt.registerTask('versionhistory', DESC, function() {
     
     var UNDEFINED,
