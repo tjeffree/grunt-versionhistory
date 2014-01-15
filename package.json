@@ -1,0 +1,25 @@
+{
+  "name": "grunt-versionhistory",
+  "description": "Bump version history collector",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tjeffree/grunt-versionhistory",
+  "author": {
+    "name": "Tony Jeffree",
+    "email": "tjeffree@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjeffree/grunt-versionhistory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vojtajina/grunt-versionhistory/issues"
+  },
+  "main": "tasks/versionhistory.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gruntplugin"
+  ]
+}
