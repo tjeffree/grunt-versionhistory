@@ -17,7 +17,7 @@ Add this line to your project's `Gruntfile.js`:
 
 To add the current version to the version history:
 ```
-$ grunt add_version
+$ grunt versionhistory
 ```
 
 ## Configuration
